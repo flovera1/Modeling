@@ -1,0 +1,15 @@
+vamos a realizar la version 1 del proyecto:
+
+version: 01
+
+imagenes del estacionamiento:
+	escogimos la imagen 05 de estacionamiento
+
+imagenes de la silla:
+	escogimos la silla01
+
+ademas de la copa de vino y la lampara
+
+	
+
+total de imagenes: 4
